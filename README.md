@@ -59,7 +59,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "AryanToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the mint function and burn function. Click on the "AryanToken" contract in the left-hand sidebar, and then click on the "mint" function and put values of address and value. Finally, click on the "transact" button to execute the function will do the changes in totalSupply and value at that particular address. Similarly you can use burn function by giving appropriate paramters of address and value and thus clicking on the "transact" will subtract the given value from the already present value at that particular address. 
+Once the contract is deployed, you can interact with it by calling the mint function and burn function. Click on the "PratikToken" contract in the left-hand sidebar, and then click on the "mint" function and put values of address and value. Finally, click on the "transact" button to execute the function will do the changes in totalSupply and value at that particular address. Similarly you can use burn function by giving appropriate paramters of address and value and thus clicking on the "transact" will subtract the given value from the already present value at that particular address. 
 
 ## Authors
 
